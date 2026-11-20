@@ -1,0 +1,22 @@
+[
+  {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "reply": "Tokens are chunks of text\u2014ranging from characters to words\u2014that AI models use to process and understand language.",
+    "input_tokens": 7,
+    "output_tokens": 22,
+    "input_price_per_m": 0.15,
+    "output_price_per_m": 0.6,
+    "cost_usd": 1.4249999999999999e-05
+  },
+  {
+    "provider": "groq",
+    "model": "openai/gpt-oss-20b",
+    "reply": "Tokens are the smallest discrete units of text\u2014usually subword segments, words, or punctuation marks\u2014that a language model encodes, processes, and predicts to understand and generate language.",
+    "input_tokens": 77,
+    "output_tokens": 105,
+    "input_price_per_m": 0.59,
+    "output_price_per_m": 0.79,
+    "cost_usd": 0.00012838
+  }
+]
